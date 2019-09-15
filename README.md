@@ -1,2 +1,2 @@
 # JFF
-Coding questions with solutions, just for fun!
+Coding questions and my solutions, just for fun!
